@@ -1,4 +1,4 @@
 - 🐬 Hi, I’m Yunus Emre ASLAN
 - 🌊 I’m interested in front-end
-- 🌀 I’m currently learning Java
+- 🌀 I’m currently learning JavaScript
 - 🌌 I want to improve myself and I strive for it.
